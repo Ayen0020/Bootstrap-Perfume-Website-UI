@@ -102,7 +102,7 @@
     color: black;
     padding: 50px 0;
     text-align: center;
-    font-family: Verdana;
+    font-family: Poppins:
     height: 100vh;
     width: 100%;
     margin: 0;

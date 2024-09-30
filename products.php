@@ -377,7 +377,7 @@
 
 .card-title {
     color: black;
-    font-family: 'Comfortaa', sans-serif;
+    font-family: Poppins;
     font-weight: bold;
     font-size: 1.2rem;
 }
